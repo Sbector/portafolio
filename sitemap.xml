@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://sbector.com/portafolio/brunch-swag/</loc>
+<loc>http://sbector.com/portafolio/epistolario/</loc>
 <lastmod>2017-10-08T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://sbector.com/portafolio/lumbersexual/</loc>
-<lastmod>2017-10-09T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://sbector.com/portafolio/inconspicuo/</loc>
@@ -14,6 +10,10 @@
 </url>
 <url>
 <loc>http://sbector.com/portafolio/contingencia2/</loc>
+<lastmod>2021-08-02T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://sbector.com/portafolio/quietam_post_meridiem/</loc>
 <lastmod>2021-08-02T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -29,18 +29,12 @@
 <loc>http://sbector.com/portafolio/tag/squid/</loc>
 </url>
 <url>
-<loc>http://sbector.com/portafolio/tag/mixtape/</loc>
-</url>
-<url>
-<loc>http://sbector.com/portafolio/tag/moon-drinking/</loc>
-</url>
-<url>
-<loc>http://sbector.com/portafolio/tag/kale/</loc>
-</url>
-<url>
 <loc>http://sbector.com/portafolio/tag/in-situ/</loc>
 </url>
 <url>
 <loc>http://sbector.com/portafolio/tag/collage-3d/</loc>
+</url>
+<url>
+<loc>http://sbector.com/portafolio/tag/fotograf%C3%ADa/</loc>
 </url>
 </urlset>
