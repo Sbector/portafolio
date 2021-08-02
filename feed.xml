@@ -6,8 +6,8 @@
 </description>
     <link>/portafoliohttp://sbector.com</link>
     <atom:link href="http://sbector.com/portafolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Aug 2021 11:10:26 -0500</pubDate>
-    <lastBuildDate>Mon, 02 Aug 2021 11:10:26 -0500</lastBuildDate>
+    <pubDate>Mon, 02 Aug 2021 11:18:16 -0500</pubDate>
+    <lastBuildDate>Mon, 02 Aug 2021 11:18:16 -0500</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -22,13 +22,13 @@
         <link>http://sbector.com/portafolio/quietam_post_meridiem/</link>
         <guid isPermaLink="true">http://sbector.com/portafolio/quietam_post_meridiem/</guid>
         
-        <category>Fotografía</category>
+        <category>fotografía</category>
         
         
       </item>
     
       <item>
-        <title>contingencia no.2, 2018</title>
+        <title>contingencia no.2</title>
         <description>&lt;p&gt;Este es un párrafo de prueba.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/portafolio/assets/images/contingencia2.jpg#full&quot; alt=&quot;inconspicuo&quot; /&gt;&lt;/p&gt;
@@ -58,14 +58,14 @@
       </item>
     
       <item>
-        <title>Brunch Swag</title>
+        <title>espitolario</title>
         <description>
 </description>
         <pubDate>Sun, 08 Oct 2017 00:00:00 -0500</pubDate>
         <link>http://sbector.com/portafolio/epistolario/</link>
         <guid isPermaLink="true">http://sbector.com/portafolio/epistolario/</guid>
         
-        <category>Squid</category>
+        <category>epistola</category>
         
         
       </item>
