@@ -1,1 +1,1 @@
-Sitemap: http://sbector.com/docs/sitemap.xml
+Sitemap: http://sbector.com/portafolio/docs/sitemap.xml
