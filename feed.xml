@@ -4,10 +4,10 @@
     <title>sbector</title>
     <description>vacío
 </description>
-    <link>/portafoliohttp://sbector.com</link>
-    <atom:link href="http://sbector.com/portafolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Aug 2021 00:18:49 -0500</pubDate>
-    <lastBuildDate>Wed, 04 Aug 2021 00:18:49 -0500</lastBuildDate>
+    <link>/portafoliohttp://localhost:4000</link>
+    <atom:link href="http://localhost:4000/portafolio/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 08 Oct 2021 03:40:34 -0500</pubDate>
+    <lastBuildDate>Fri, 08 Oct 2021 03:40:34 -0500</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;&lt;img src=&quot;/portafolio/assets/images/rodin_countdown.jpg&quot; alt=&quot;img1&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Aug 2021 00:00:00 -0500</pubDate>
-        <link>http://sbector.com/portafolio/rodin_countdown/</link>
-        <guid isPermaLink="true">http://sbector.com/portafolio/rodin_countdown/</guid>
+        <link>http://localhost:4000/portafolio/rodin_countdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/portafolio/rodin_countdown/</guid>
         
         <category>web art</category>
         
@@ -34,8 +34,8 @@
 &lt;p&gt;&lt;img src=&quot;/portafolio/assets/images/quietam_post_meridiem2.jpg&quot; alt=&quot;img2&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Aug 2021 00:00:00 -0500</pubDate>
-        <link>http://sbector.com/portafolio/quietam_post_meridiem/</link>
-        <guid isPermaLink="true">http://sbector.com/portafolio/quietam_post_meridiem/</guid>
+        <link>http://localhost:4000/portafolio/quietam_post_meridiem/</link>
+        <guid isPermaLink="true">http://localhost:4000/portafolio/quietam_post_meridiem/</guid>
         
         <category>fotografía</category>
         
@@ -49,8 +49,8 @@
 &lt;p&gt;&lt;img src=&quot;/portafolio/assets/images/planet.jpg&quot; alt=&quot;img1&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Aug 2021 00:00:00 -0500</pubDate>
-        <link>http://sbector.com/portafolio/planet/</link>
-        <guid isPermaLink="true">http://sbector.com/portafolio/planet/</guid>
+        <link>http://localhost:4000/portafolio/planet/</link>
+        <guid isPermaLink="true">http://localhost:4000/portafolio/planet/</guid>
         
         <category>video</category>
         
@@ -68,8 +68,8 @@
 &lt;p&gt;&lt;img src=&quot;/portafolio/assets/images/kitchen2.jpg&quot; alt=&quot;img2&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Aug 2021 00:00:00 -0500</pubDate>
-        <link>http://sbector.com/portafolio/kitchen/</link>
-        <guid isPermaLink="true">http://sbector.com/portafolio/kitchen/</guid>
+        <link>http://localhost:4000/portafolio/kitchen/</link>
+        <guid isPermaLink="true">http://localhost:4000/portafolio/kitchen/</guid>
         
         <category>fotografía</category>
         
@@ -81,8 +81,8 @@
         <description>
 </description>
         <pubDate>Mon, 02 Aug 2021 00:00:00 -0500</pubDate>
-        <link>http://sbector.com/portafolio/epistolario/</link>
-        <guid isPermaLink="true">http://sbector.com/portafolio/epistolario/</guid>
+        <link>http://localhost:4000/portafolio/epistolario/</link>
+        <guid isPermaLink="true">http://localhost:4000/portafolio/epistolario/</guid>
         
         <category>epistola</category>
         
@@ -96,8 +96,8 @@
 &lt;p&gt;&lt;img src=&quot;/portafolio/assets/images/contingencia2.jpg&quot; alt=&quot;inconspicuo&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Aug 2021 00:00:00 -0500</pubDate>
-        <link>http://sbector.com/portafolio/contingencia2/</link>
-        <guid isPermaLink="true">http://sbector.com/portafolio/contingencia2/</guid>
+        <link>http://localhost:4000/portafolio/contingencia2/</link>
+        <guid isPermaLink="true">http://localhost:4000/portafolio/contingencia2/</guid>
         
         <category>collage 3d</category>
         
@@ -111,8 +111,8 @@
 &lt;p&gt;&lt;img src=&quot;/portafolio/assets/images/complete_this_work.jpg&quot; alt=&quot;img1&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Aug 2021 00:00:00 -0500</pubDate>
-        <link>http://sbector.com/portafolio/complete_this_work/</link>
-        <guid isPermaLink="true">http://sbector.com/portafolio/complete_this_work/</guid>
+        <link>http://localhost:4000/portafolio/complete_this_work/</link>
+        <guid isPermaLink="true">http://localhost:4000/portafolio/complete_this_work/</guid>
         
         <category>in situ</category>
         
@@ -126,8 +126,8 @@
 &lt;iframe src=&quot;https://drive.google.com/file/d/1C-dMCp_S03kQIZtQlilJSyw4kIaYJ4HT/preview&quot; width=&quot;640&quot; height=&quot;480&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sun, 01 Aug 2021 00:00:00 -0500</pubDate>
-        <link>http://sbector.com/portafolio/inconspicuo/</link>
-        <guid isPermaLink="true">http://sbector.com/portafolio/inconspicuo/</guid>
+        <link>http://localhost:4000/portafolio/inconspicuo/</link>
+        <guid isPermaLink="true">http://localhost:4000/portafolio/inconspicuo/</guid>
         
         <category>in situ</category>
         
